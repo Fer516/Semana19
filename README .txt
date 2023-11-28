@@ -1,3 +1,3 @@
 Nombres:
-	Francisco Rene Ruiz Bolaños SMSS031722
-	Jairo Bladimir Quinteros Santos SMSS043522
+	Luisa Fernanda Medrano Cruz SMSS037022
+	Anderson Jose Berrios Diaz SMSS100222
